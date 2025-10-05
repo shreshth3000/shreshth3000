@@ -1,16 +1,16 @@
-## Hi there 👋
+### I'm Shreshth Rai, an <br> [![](https://readme-typing-svg.demolab.com/?lines=AI+-+ML+Researcher;AI+Engineer;Full+-+Stack+Software+Engineer)](https://git.io/typing-svg)
 
-<!--
-**shreshth3000/shreshth3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Contribution Statistics:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='left'>
+
+![](https://github-readme-stats.vercel.app/api?username=shreshth3000&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+
+</div>
+
+<div align='right'>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shreshth3000&theme=algolia&hide_border=false)
+
+</div>
