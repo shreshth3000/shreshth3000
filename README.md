@@ -2,7 +2,7 @@
 [![](https://readme-typing-svg.demolab.com/?lines=AI+-+ML+Researcher;AI+Engineer;Full+-+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 
-## My Contribution Statistics/...
+## My Contribution Statistics...
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreshth3000/shreshth3000/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreshth3000/shreshth3000/output/github-snake.svg">
